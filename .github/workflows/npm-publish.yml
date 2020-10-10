@@ -35,7 +35,7 @@ jobs:
       # semantic release action from third party
       - uses: codfish/semantic-release-action@master
         with:
-          branches: develop
+          args: --branches develop
     # Add the environment variable for NPM and github. Github is needed because semantic-release will create a new release and release notes automatically
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

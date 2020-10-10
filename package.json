@@ -51,20 +51,16 @@
     "codecov": "3.6.x",
     "coveralls": "3.0.x"
   },
-  "author": {
-    "name": "Martin Beierling",
-    "email": "mbeierling@gmail.com"
-  },
-  "homepage": "https://embiem.github.io/react-canvas-draw/",
   "license": "MIT",
-  "repository": "https://github.com/embiem/react-canvas-draw",
+  "repository": "https://github.com/ashinga48/react-canvas-draw",
   "bugs": {
-    "url": "https://github.com/embiem/react-canvas-draw/issues"
+    "url": "https://github.com/ashinga48/react-canvas-draw/issues"
   },
   "private": false,
   "publishConfig": {
     "access": "public"
   },
+  "author": "embiem",
   "keywords": [
     "react-component",
     "react",
